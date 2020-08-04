@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{2234BF1B-FC53-4EEA-9E46-E0AFC763D4D9}">
+	<children>
+		<child name="LoginTest" key="{4B67764C-0754-4F3A-BF60-601CB48947F1}" path="LoginTest\LoginTest.mds" />
+		<child name="FindAndCreatePatient" key="{039BBAAB-9C7B-4783-A09A-8209F98FF41E}" path="FindAndCreatePatient\FindAndCreatePatient.mds" />
+	</children>
+	<testItems key="{45B5EA43-5A4D-4A00-A193-AF35BB768A75}">
+		<children>
+			<testItem key="{4B67764C-0754-4F3A-BF60-601CB48947F1}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{039BBAAB-9C7B-4783-A09A-8209F98FF41E}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{21116750-CA3A-447D-93B4-345F1FF1FBA3}" />
+	<analysis key="{C5547F0D-A864-401A-B86A-7FBE85D1B93A}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>

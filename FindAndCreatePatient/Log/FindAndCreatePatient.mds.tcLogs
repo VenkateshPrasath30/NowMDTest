@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="folders"/>
+		<Node name="logs">
+			<Node name="log idx=0000">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44047.4206911806"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{81C1608B-0DD9-4D4B-B1AE-A239B184B0A5}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [ExcelDrivenPatientCreation]"/>
+				<Prp name="relpath" type="S" value="04-08-2020_10_05_47_719\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44047.4331754398"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{1AAAAE11-D4DA-4C2D-B078-9275C37BA1D2}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [ExcelDrivenPatientCreation]"/>
+				<Prp name="relpath" type="S" value="04-08-2020_10_23_46_358\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44047.4345389005"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{78EDC15F-5DA8-481B-8F4B-400171A07FB6}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [ExcelDrivenPatientCreation]"/>
+				<Prp name="relpath" type="S" value="04-08-2020_10_25_44_161\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44047.4364351042"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{8714C282-723D-42F8-9B53-180FFF6617D4}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [ExcelDrivenPatientCreation]"/>
+				<Prp name="relpath" type="S" value="04-08-2020_10_28_27_993\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
+		<Prp name="version" type="S" value="11.0"/>
+	</Node>
+</Nodes>

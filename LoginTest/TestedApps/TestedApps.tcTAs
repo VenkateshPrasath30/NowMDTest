@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{70689AE9-A6F1-49DA-95CE-3B835824A1D3}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{0FF10EB0-0076-40BE-8655-E4CE38B1EC97}">
+			<config nodeName="NowMDdemo" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Program Files (x86)\NowMD" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Program Files (x86)\NowMD" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Program Files (x86)\NowMD" />
+					<param name="Simple" fileName="NowMDdemo.exe" filePath="C:\Program Files (x86)\NowMD\" parameters="" workFolder="C:\Program Files (x86)\NowMD" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
