@@ -39,6 +39,33 @@
 				<Prp name="relpath" type="S" value="04-08-2020_09_49_00_800\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44047.4734446875"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{CAFE9E17-1907-4CE9-919D-54B5353A142C}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [ExcelDrivenLogin]"/>
+				<Prp name="relpath" type="S" value="04-08-2020_11_21_45_621\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44047.5139702778"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{DF349907-1F58-4DC3-9BC1-8FE807F16E47}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [ExcelDrivenLogin]"/>
+				<Prp name="relpath" type="S" value="04-08-2020_12_20_07_32\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44047.520862662"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{58B690B2-22F0-4E44-81F4-ECBAF490A388}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [ExcelDrivenLogin]"/>
+				<Prp name="relpath" type="S" value="04-08-2020_12_30_02_534\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>

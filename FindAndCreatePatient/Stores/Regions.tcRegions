@@ -4,5 +4,8 @@
 		<child name="panelLogo" key="{8B3E6D85-33B6-4086-B0EB-5AB8C706A4D8}">
 			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="panelLogo" ID="{8B3E6D85-33B6-4086-B0EB-5AB8C706A4D8}" FileName="Regions\panelLogo.png" Update="False" />
 		</child>
+		<child name="panelLogo1" key="{3C89161D-B1F5-4F63-9990-33FBD516171C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="panelLogo1" ID="{3C89161D-B1F5-4F63-9990-33FBD516171C}" FileName="Regions\panelLogo1.png" Update="False" />
+		</child>
 	</children>
 </Root>

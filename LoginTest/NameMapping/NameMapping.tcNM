@@ -102,6 +102,18 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="panelLogo" Key="{FFDF44C6-92C5-4E21-82F0-6C57AC877C42}">
+												<Image FileName="-43473094" Left="80" Top="83" Right="533" Bottom="224" />
+												<TypeInfo Item0="{091A51C6-1F87-4D67-BF31-D57091456FB7}" />
+												<Properties>
+													<Property Name="ClassName">
+														<Value Value="TRzPanel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="panelLogo" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -122,6 +134,7 @@
 						<Child Name="btnLogin" Owner="{656C5788-E620-4552-A5B5-D3FD7088F272}" />
 						<Child Name="btnCancel" Owner="{C2E3994D-1052-475B-987D-045EC352E9D0}" />
 					</Child>
+					<Child Name="panelLogo" Owner="{FFDF44C6-92C5-4E21-82F0-6C57AC877C42}" />
 				</Child>
 			</Child>
 		</Child>

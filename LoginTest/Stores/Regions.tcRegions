@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="14.0">
+	<children>
+		<child name="panelLogo" key="{21511830-0E62-48B2-A6B2-8C48A942E5C2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="panelLogo" ID="{21511830-0E62-48B2-A6B2-8C48A942E5C2}" FileName="Regions\panelLogo.png" Update="False" />
+		</child>
+	</children>
+</Root>

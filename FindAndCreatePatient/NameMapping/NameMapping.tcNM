@@ -88,6 +88,18 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="btnCancel" Key="{828C8472-8F19-4E86-88E1-CFE3DBA3E27B}">
+														<Image FileName="-26833926" Left="1143" Top="650" Right="1310" Bottom="688" />
+														<TypeInfo Item0="{ED125215-5415-48EF-B55F-7FD253D3C8DF}" />
+														<Properties>
+															<Property Name="ClassName">
+																<Value Value="TRzBitBtn" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="btnCancel" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 											<Child Name="panelLogo" Key="{73C40075-C437-439C-88BB-BE687C85C731}">
@@ -697,6 +709,7 @@
 						<Child Name="edLoginName" Owner="{60FBC80C-A76D-42CE-B744-67F5E5FD6556}" />
 						<Child Name="edPassword" Owner="{A04B339B-E8F2-4AF5-ABF7-64504899A89C}" />
 						<Child Name="btnLogin" Owner="{C52EBDA3-9A52-493C-8704-EA1D51CC8C9A}" />
+						<Child Name="btnCancel" Owner="{828C8472-8F19-4E86-88E1-CFE3DBA3E27B}" />
 					</Child>
 					<Child Name="panelLogo" Owner="{73C40075-C437-439C-88BB-BE687C85C731}" />
 				</Child>
